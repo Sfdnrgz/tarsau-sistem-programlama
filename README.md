@@ -29,3 +29,7 @@ Dizin belirtilmezse dosyalar gecerli dizinde acilir.
 ```bash
 make clean
 ```
+## Error Controls
+- Invalid archive file check
+- ASCII file validation
+- Maximum file limit control
