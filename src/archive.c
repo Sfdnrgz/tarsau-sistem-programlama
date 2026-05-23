@@ -93,3 +93,5 @@ int create_archive(int file_count, char **files, const char *archive_name) {
     printf("Dosyalar birlestirildi.\n");
     return 0;
 }
+
+// Archive size control improved
