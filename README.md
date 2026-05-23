@@ -33,3 +33,6 @@ make clean
 - Invalid archive file check
 - ASCII file validation
 - Maximum file limit control
+
+## Development Note
+Archive creation and extraction steps were tested again.
