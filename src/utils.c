@@ -76,3 +76,5 @@ int safe_copy_n_bytes(int in_fd, int out_fd, off_t n) {
     }
     return 0;
 }
+
+// Utility functions updated for file validation
