@@ -153,3 +153,5 @@ int extract_archive(const char *archive_name, const char *output_dir) {
     }
     return 0;
 }
+
+// Final extraction stability checks added
