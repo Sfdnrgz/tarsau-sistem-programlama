@@ -36,3 +36,5 @@ make clean
 
 ## Development Note
 Archive creation and extraction steps were tested again.
+
+Project finalized for delivery.
