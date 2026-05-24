@@ -95,3 +95,5 @@ int create_archive(int file_count, char **files, const char *archive_name) {
 }
 
 // Archive size control improved
+
+// Invalid archive format checks updated
